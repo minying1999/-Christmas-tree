@@ -4,7 +4,7 @@ import numpy as np
 
 from numpy import sqrt
 
-c=int(input(How high you want?:))
+c=int(input(How high you want?（Please enter an even number）:))
 
 C=int(c/2)
 
